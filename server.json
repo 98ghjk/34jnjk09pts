@@ -1,0 +1,37 @@
+{
+
+"native_id" : "ca-app-pub-3940256099942544/2247696110",
+
+"intent_inter" : "ca-app-pub-3940256099942544/1033173712",
+
+"read_inter" : "ca-app-pub-3940256099942544/1033173712",
+
+"coffee_reward" : "ca-app-pub-3940256099942544/5224354917",
+
+"point_reward" : "ca-app-pub-3940256099942544/5224354917",
+
+"game_reward" : "ca-app-pub-3940256099942544/5224354917",
+  
+"path" : "https://raw.githubusercontent.com/htutkaungsan/PAID/main/server/main/",
+
+"photo_path" : "https://raw.githubusercontent.com/htutkaungsan/PAID/main/server/main/",
+
+"paid_app_link" : "https://play.google.com/store/apps/details?id=com.xc.fb",
+
+"free_app_link" : "https://m.apkpure.com/store/apps/details?id=com.xc.fb",
+
+"paid_app_package" :"",
+
+"free_app_package" : "",
+
+"update_link" : "",
+
+"update_message" : "ဗားရှင်းအသစ်ထွက်ပါပြီ ခုပဲ ဒေါင်းယူလိုက်ပါ... ကြယ် ၅ လုံးလည်း ပေးခဲ့ ဦးနော် ..",
+
+"is_update_forced" : true,
+
+"is_server_on" : true,
+
+"version" : "1"
+
+}

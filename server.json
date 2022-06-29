@@ -24,9 +24,9 @@
 
 "free_app_link" : "https://drive.google.com/file/d/1cHp-UZltNLXJ2_O4Cvo-EVWdjwSC2lYZ/view?usp=sharing",
 
-"paid_app_package" :"",
+"paid_app_package" :"com.xcomic.paid",
 
-"free_app_package" : "",
+"free_app_package" : "com.xcomic.free",
 
 "update_link" : "",
 

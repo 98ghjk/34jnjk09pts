@@ -26,7 +26,7 @@
 
 "paid_app_package" :"com.xcomic.paid",
 
-"free_app_package" : "com.xcomic.free",
+"free_app_package" : "com.xc.fb",
 
 "update_link" : "",
 
@@ -35,6 +35,8 @@
 "is_update_forced" : true,
 
 "is_server_on" : true,
+  
+"is_test_server_on" : true,
 
 "version" : "1.0"
 

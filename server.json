@@ -1,20 +1,20 @@
 {
 
-"native_id" : "ca-app-pub-3940256099942544/2247696110",
+"native_id" : "",
 
-"intent_inter" : "ca-app-pub-3940256099942544/1033173712",
+"intent_inter" : "ca-app-pub-8027178561207823/9223643852",
 
-"read_inter" : "ca-app-pub-3940256099942544/1033173712",
+"read_inter" : "ca-app-pub-8027178561207823/8265785404",
 
-"coffee_reward" : "ca-app-pub-3940256099942544/5224354917",
+"coffee_reward" : "ca-app-pub-8027178561207823/4134968706",
 
-"point_reward" : "ca-app-pub-3940256099942544/5224354917",
+"point_reward" : "ca-app-pub-8027178561207823/2067757306",
 
-"game_reward" : "ca-app-pub-3940256099942544/5224354917",
+"game_reward" : "ca-app-pub-8027178561207823/4502348950",
   
-"blog_reward" : "ca-app-pub-3940256099942544/5224354917",
+"blog_reward" : "ca-app-pub-8027178561207823/7627205745",
   
-"supports" : ["0066","0067","0035"],
+"supports" : ["0066"],
   
 "path" : "https://raw.githubusercontent.com/htutkaungsan/PAID/main/server/main/",
 
@@ -36,7 +36,7 @@
 
 "is_server_on" : true,
   
-"is_test_server_on" : true,
+"is_test_server_on" : false,
 
 "version" : "1.0"
 

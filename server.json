@@ -16,6 +16,35 @@
   
 "supports" : ["0066"],
   
+"tabs": [
+"All",
+"Action",
+"Adult",
+"Drama",
+"Comedy",
+"Mature",
+"NTR",
+"School Life",
+"Romance",
+"Seinen",
+"Harem",
+"Slice of Life",
+"Vanilla"
+],
+  
+"description": [
+"ကျောင်းသားဘဝ ဇာတ်လမ်းကောင်းများ",
+"Netorare စီးရီး စုစည်းမှု",
+"အနုအယွ အချစ် ဒရာမာ စီးရီးများ"
+
+],
+  
+"parent_filter": {
+"School": "school",
+"NTR Collection": "ntr",
+"Drama Series": "drama"
+},
+  
 "path" : "https://raw.githubusercontent.com/htutkaungsan/PAID/main/server/main/",
 
 "photo_path" : "https://raw.githubusercontent.com/htutkaungsan/PAID/main/server/main/",

@@ -66,6 +66,10 @@
 "update_link" : "",
 
 "update_message" : "ဗားရှင်းအသစ်ထွက်ပါပြီ ခုပဲ ဒေါင်းယူလိုက်ပါ... ကြယ် ၅ လုံးလည်း ပေးခဲ့ ဦးနော် ..",
+  
+"is_sponsored" : " true,
+  
+"sponsored_link" : "",
 
 "is_update_forced" : true,
 

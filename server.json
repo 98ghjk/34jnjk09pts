@@ -67,7 +67,7 @@
 
 "update_message" : "ဗားရှင်းအသစ်ထွက်ပါပြီ ခုပဲ ဒေါင်းယူလိုက်ပါ... ကြယ် ၅ လုံးလည်း ပေးခဲ့ ဦးနော် ..",
   
-"is_sponsored" : true,
+"is_sponsored" : false,
   
 "sponsored_link" : "https://cover98.blogspot.com/2022/07/just-goingto-wtach.html",
   
@@ -77,7 +77,7 @@
 
 "is_server_on" : true,
   
-"is_test_server_on" : true,
+"is_test_server_on" : false,
 
 "version" : "1.0"
 

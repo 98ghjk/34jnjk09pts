@@ -1,24 +1,24 @@
 {
   
-"banner" : "ca-app-pub-3940256099942544/6300978111",
+"banner" : "ca-app-pub-8746767998325746/6213554280",
   
-"native_id" : "ca-app-pub-3940256099942544/2247696110",
+"native_id" : "ca-app-pub-8746767998325746/4573718294",
 
-"intent_inter" : "ca-app-pub-3940256099942544/1033173712",
+"intent_inter" : "ca-app-pub-8746767998325746/4900472614",
 
-"read_inter" : "ca-app-pub-3940256099942544/1033173712",
+"read_inter" : "ca-app-pub-8746767998325746/3587390944",
   
-"download_inter" : "ca-app-pub-3940256099942544/1033173712",
+"download_inter" : "ca-app-pub-8746767998325746/4293133807",
  
-"download_reward" : "ca-app-pub-3940256099942544/5224354917",
+"download_reward" : "ca-app-pub-8746767998325746/5251277668",
 
-"coffee_reward" : "ca-app-pub-3940256099942544/5224354917",
+"coffee_reward" : "ca-app-pub-8746767998325746/3938195997",
 
-"point_reward" : "ca-app-pub-3940256099942544/5224354917",
+"point_reward" : "ca-app-pub-8746767998325746/8321391610",
 
-"game_reward" : "ca-app-pub-3940256099942544/5224354917",
+"game_reward" : "ca-app-pub-8746767998325746/2625114326",
   
-"blog_reward" : "ca-app-pub-3940256099942544/5224354917",
+"blog_reward" : "ca-app-pub-8746767998325746/5653768193",
   
 "supports" : ["0066"],
   

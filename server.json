@@ -63,9 +63,9 @@
 
 "free_app_package" : "com.xc.fb",
 
-"update_link" : "https://drive.google.com/file/d/1cHp-UZltNLXJ2_O4Cvo-EVWdjwSC2lYZ/view?usp=sharing",
+"update_link" : "",
 
-"update_message" : "ဗားရှင်းအသစ်ထွက်ပါပြီ ခုပဲ ဒေါင်းယူလိုက်ပါ... ကြယ် ၅ လုံးလည်း ပေးခဲ့ ဦးနော် ..",
+"update_message" : "Play Store မှာ Update တင်နေလို့ ခဏပိတ်ထားပါမယ်",
   
 "is_sponsored" : false,
   
@@ -79,6 +79,6 @@
   
 "is_test_server_on" : false,
 
-"version" : "1.0"
+"version" : "2.0"
 
 }
